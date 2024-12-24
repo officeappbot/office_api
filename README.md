@@ -34,7 +34,9 @@ API открывает доступ к следующим функциям се�
 
 ``
 GET /api/resource HTTP/1.1
+
 Host: api.officeapp.com
+
 Authorization: External <TOKEN>
 ``
 
