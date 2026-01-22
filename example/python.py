@@ -26,7 +26,7 @@ secret_key = 'SECRET-KEY'
 public_key = 'PUBLIC-KEY'
 
 # Step 1: Get the phrase
-url = 'https://rest-api.officebot.app/api/get-phrase'
+url = 'https://public.crypto-office.com/api/get-phrase'
 headers = {'Accept': 'application/json'}
 response = requests.get(url, headers=headers)
 

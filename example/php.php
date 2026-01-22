@@ -8,7 +8,7 @@ $public = 'PUBLIC-KEY';
 //Шаг №1. Необходимо получить фразу
 $curl = curl_init();
 curl_setopt_array($curl, array(
-    CURLOPT_URL => 'https://rest-api.officebot.app/api/get-phrase',
+    CURLOPT_URL => 'https://public.crypto-office.com/api/get-phrase',
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => '',
     CURLOPT_MAXREDIRS => 10,
