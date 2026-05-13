@@ -33,4 +33,4 @@ API открывает доступ к следующим функциям се�
 
 ### Документация в Postman
 
-Подробная документация для работы с API доступна в Postman: [ссылка](https://documenter.getpostman.com/view/7317157/2sAYJ4i1D5)
+Подробная документация для работы с API доступна в Postman: [ссылка](https://developers.crypto-office.com/rest-api)
