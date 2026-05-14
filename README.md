@@ -35,6 +35,6 @@
 ### Авторизация
 Авторизация производится с помощью передачи заголовках запроса ``Authorization: External TOKEN``
 
-### Документация в Postman
+### Документация API
 
 Подробная документация для работы с API доступна по ссылке: [https://developers.crypto-office.com/rest-api](https://developers.crypto-office.com/rest-api)
