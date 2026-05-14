@@ -37,4 +37,4 @@
 
 ### Документация в Postman
 
-Подробная документация для работы с API доступна в Postman: [ссылка](https://developers.crypto-office.com/rest-api)
+Подробная документация для работы с API доступна по ссылке: [https://developers.crypto-office.com/rest-api](https://developers.crypto-office.com/rest-api)
