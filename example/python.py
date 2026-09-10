@@ -21,9 +21,9 @@ class XSalsa20EncryptDecrypt:
         decrypted = pysodium.crypto_stream_xor(ciphertext, len(ciphertext), nonce, self.key)
         return decrypted.decode('utf-8')
 
-# Secret and public keys
-secret_key = 'SECRET-KEY'
+#public and secret keys
 public_key = 'PUBLIC-KEY'
+secret_key = 'SECRET-KEY'
 
 # Step 1: Get the phrase
 url = 'https://public.crypto-office.com/api/get-phrase'
