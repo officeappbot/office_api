@@ -1,8 +1,7 @@
 <?php
 
-
-$secret = 'SECRET-KEY';
 $public = 'PUBLIC-KEY';
+$secret = 'SECRET-KEY';
 
 
 //Шаг №1. Необходимо получить фразу
